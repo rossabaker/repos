@@ -443,7 +443,6 @@
 - http4s/http4s-finagle
 - http4s/http4s-jdk-http-client
 - http4s/http4s-netty
-- http4s/jawn-fs2
 - http4s/rho
 - http4s/sbt-http4s-org
 - huiwang/codingame-scala-kit
@@ -1039,6 +1038,7 @@
 - typelevel/discipline-specs2
 - typelevel/frameless
 - typelevel/jawn
+- typelevel/jawn-fs2
 - typelevel/kind-projector
 - typelevel/kittens
 - typelevel/mouse

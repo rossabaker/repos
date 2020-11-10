@@ -571,6 +571,7 @@
 - lightbend/ssl-config
 - lihaoyi/scala.rx
 - liuhongchao/bitcoin4s
+- log4s/log4s
 - loicknuchel/SafeQL
 - loicknuchel/TypedAPI
 - LolHens/sbt-scalajs-webjar
